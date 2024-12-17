@@ -157,6 +157,11 @@ h1, h2, p {
     font-weight: 600;
 }
 
+.images {
+    max-width: 50px; 
+    height: auto;
+}
+
 form {
     display: flex;
     flex-direction: column;
