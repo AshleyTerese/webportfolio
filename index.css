@@ -143,6 +143,13 @@ h1, h2, p {
     object-fit: cover;
 }
 
+.tools-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
 /* Contact Section Styling */
 #contact {
     padding: 40px 20px;
