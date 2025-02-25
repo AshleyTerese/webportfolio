@@ -48,6 +48,7 @@ nav {
     justify-content: center;
     text-align: center;
     padding: 40px;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.8);
 }
 
 .profile-container {
@@ -57,8 +58,8 @@ nav {
 }
 
 .profile-image {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     border: 3px solid #fff;
